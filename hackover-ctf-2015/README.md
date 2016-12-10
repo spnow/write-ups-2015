@@ -8,6 +8,8 @@
 * [forensics/invisible1337](forensics/invisible1337)
 * [forensics/pinkie-pie](forensics/pinkie-pie)
 * [misc/greetings](misc/greetings)
+* [reversing/easy-math](reversing/easy-math)
+* [reversing/goto](reversing/goto)
 
 ## External write-ups only
 
@@ -18,8 +20,6 @@
 * [misc/allyourbase](misc/allyourbase)
 * [misc/simplepassword](misc/simplepassword)
 * [pwn/easy-shell](pwn/easy-shell)
-* [reversing/easy-math](reversing/easy-math)
-* [reversing/goto](reversing/goto)
 * [reversing/i-like-to-move-it](reversing/i-like-to-move-it)
 * [web/hack-the-planet](web/hack-the-planet)
 * [web/messagecenter](web/messagecenter)
